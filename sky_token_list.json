@@ -1,0 +1,21 @@
+{
+  "name": "Sky Token List",
+  "logoURI": "https://github.com/Tekholms-LW/SKY/blob/main/Sky-token.png?raw=true",
+  "keywords": ["Sky", "Apertum"],
+  "timestamp": "2025-03-22T09:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 2786,
+      "address": "0x54687168079dd179cea93c42afe88650e1d4967c",
+      "name": "Sky",
+      "symbol": "SKY",
+      "decimals": 18,
+      "logoURI": "https://github.com/Tekholms-LW/SKY/blob/main/Sky-token.png?raw=true"
+    }
+  ]
+}
